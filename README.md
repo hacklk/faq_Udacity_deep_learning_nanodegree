@@ -15,13 +15,13 @@ Thank you!
 
 <b>CONTENT</b>
 
-<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/1_Introduction_to_Deep_Learning">1. Introduction to Deep Learning</a>
-<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/2_Neural_Networks">2. Neural Networks</a>
-<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/3_Convolutional_Neural_Networks">3. Convolutional Neural Networks</a>
-<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/4_Recurrent_Neural_Networks">4. Recurrent Neural Networks</a>
-<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/5_Generative_Adversarial_Networks">5. Generative Adversarial Networks</a>
-<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/6_Deploying_a_Model">6. Deploying a Model</a>
-<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/Extra_1_Additional_Lessons">Extra 1: Additional Lessons</a>
-<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/Extra_2_TensorFlow_Keras_Frameworks">Extra 2: TensorFlow, Keras Frameworks</a>
+<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/1_Introduction_to_Deep_Learning">1. Introduction to Deep Learning</a><br/>
+<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/2_Neural_Networks">2. Neural Networks</a><br/>
+<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/3_Convolutional_Neural_Networks">3. Convolutional Neural Networks</a><br/>
+<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/4_Recurrent_Neural_Networks">4. Recurrent Neural Networks</a><br/>
+<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/5_Generative_Adversarial_Networks">5. Generative Adversarial Networks</a><br/>
+<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/6_Deploying_a_Model">6. Deploying a Model</a><br/>
+<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/Extra_1_Additional_Lessons">Extra 1: Additional Lessons</a><br/>
+<a href="https://github.com/hacklk/faq_pytorch_DLND/blob/master/Extra_2_TensorFlow_Keras_Frameworks">Extra 2: TensorFlow, Keras Frameworks</a><br/>
 
 
